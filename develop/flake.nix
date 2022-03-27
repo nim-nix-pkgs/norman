@@ -11,6 +11,7 @@
   inputs.src-norman-develop.ref   = "refs/heads/develop";
   inputs.src-norman-develop.owner = "moigagoo";
   inputs.src-norman-develop.repo  = "norman";
+  inputs.src-norman-develop.dir   = "";
   inputs.src-norman-develop.type  = "github";
   
   inputs."norm".owner = "nim-nix-pkgs";
