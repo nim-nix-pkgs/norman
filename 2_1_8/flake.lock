@@ -150,7 +150,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
         "norm": "norm",
-        "src-norman-develop": "src-norman-develop"
+        "src-norman-2_1_8": "src-norman-2_1_8"
       }
     },
     "src-cligen-v1_5_23": {
@@ -221,19 +221,19 @@
         "type": "github"
       }
     },
-    "src-norman-develop": {
+    "src-norman-2_1_8": {
       "flake": false,
       "locked": {
-        "lastModified": 1649537551,
-        "narHash": "sha256-RPQNJGmLa2yN3W5zC9/D9g/aQWSPIpJVSUZusYHGngU=",
+        "lastModified": 1649537481,
+        "narHash": "sha256-E7XV531ugRtytRj4jwnRn+WdMtnEVz7cPiNOL2Gbu08=",
         "owner": "moigagoo",
         "repo": "norman",
-        "rev": "1edf20dedde4b7f9f665ebc90ba6d68d1fd0c476",
+        "rev": "0c5bdffcf9fd43e066be80e7d81b5e1ffccffe81",
         "type": "github"
       },
       "original": {
         "owner": "moigagoo",
-        "ref": "refs/heads/develop",
+        "ref": "refs/tags/2.1.8",
         "repo": "norman",
         "type": "github"
       }
